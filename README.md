@@ -62,6 +62,5 @@
 
 ---
 
-<p align="center"><img src="https://github.com/nematovN/nematovN/blob/output/github-contribution-grid-snake-dark.svg" alt="snake-animation"></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
