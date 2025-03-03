@@ -8,7 +8,6 @@
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **E-Commerce Backend Development**
 - 🌱 I’m currently learning **Django, REST API's, and PostgreSQL**
 - 💬 Ask me about **Backend Development, Django, and Python**
 - ⚡ Fun fact: **I love coding at night! 🌙**
