@@ -6,9 +6,6 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=nematovN&color=blue)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nematovN&theme=radical)
-
 
 
 ---
