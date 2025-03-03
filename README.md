@@ -4,6 +4,13 @@
   <a href="https://github.com/nematovN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hello+%F0%9F%91%8B%2C+I'm+Nematov!;I'm+a+Backend+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+REST+API's+%7C+PostgreSQL;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" /></a>
 </p>
 
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=nematovN&color=blue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nematovN&theme=radical)
+
+
+
 ---
 
 ## 🔥 About Me
