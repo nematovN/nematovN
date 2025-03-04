@@ -1,70 +1,123 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nematov's%20GitHub&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20world!&descAlignY=55&descAlign=50)
-
-<p align="center">
-  <a href="https://github.com/nematovN"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=80&lines=Hello+%F0%9F%91%8B%2C+I'm+Nematov!;I'm+a+Backend+Developer+%F0%9F%92%BB;Python+%7C+Django+%7C+REST+API's+%7C+PostgreSQL;Open+Source+Enthusiast+%F0%9F%8C%90" alt="Typing SVG" /></a>
-</p>
+# Nematov's GitHub Profile
+![Developer Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
-
-
+A passionate backend developer specializing in Django, Python, and REST APIs. I love working on open-source projects and constantly improving my skills.
 
 ---
 
-## 🔥 About Me
+## 🚀 About Me
+I'm a backend developer with experience in building scalable web applications using Python, Django, and PostgreSQL. I enjoy working on APIs, databases, and backend logic while ensuring performance and security.
 
-- 🌱 I’m currently learning **Django, REST API's, and PostgreSQL**
-- 💬 Ask me about **Backend Development, Django, and Python**
-- ⚡ Fun fact: **I love coding at night! 🌙**
-
----
-
-## 🌟 Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,git,github,linux,html,css,js,bootstrap,figma,vscode" />
-  </a>
-</p>
+![Banner](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=nematovN&theme=tokyonight" alt="streak stats"/>
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=nematovN&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nematovN&hide=html&langs_count=8&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+## 🔗 Links
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nematovN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nematovN)
 
 ---
 
-## 🚀 Top Repositories
+# Hi, I'm Nematov! 👋
 
-<p align="center">
-  <a href="https://github.com/nematovN/ecommerce-backend"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nematovN&repo=ecommerce-backend&theme=tokyonight&bg_color=1F222E&title_color=00FFFF&hide_border=true" alt="E-commerce Backend"></a>
-  <a href="https://github.com/nematovN/django-blog"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=nematovN&repo=django-blog&theme=tokyonight&bg_color=1F222E&title_color=00FFFF&hide_border=true" alt="Django Blog"></a>
-</p>
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
----
+## 🛠 Skills
+- **Languages**: Python, JavaScript, C++
+- **Backend**: Django, Django REST Framework, FastAPI
+- **Databases**: PostgreSQL, MySQL
+- **DevOps**: Docker, Linux, Git
+- **Frontend (Basic)**: HTML, CSS, JavaScript
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nematovN&theme=tokyonight&margin-w=15" alt="Trophies" /></a>
-</p>
+![Tech Stack Animation](https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif)
 
 ---
 
-## 📬 Connect with me
+## 🌱 Currently Learning
+- 🚀 Advanced Django optimization
+- 🗄️ Redis & Caching techniques
+- ☁️ Kubernetes & Cloud deployment
 
-<p align="center">
-  <a href="https://github.com/nematovN" target="_blank"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://t.me/nematovN" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.linkedin.com/in/nematovN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</p>
+![Learning Animation](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ---
 
+## 👯 Looking to Collaborate On
+- 🤝 Open-source Django projects
+- 🔌 REST API development
+- 📈 Scalable backend architectures
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
+![Collaboration Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
+---
+
+## 📫 How to Reach Me
+📩 GitHub: [@nematovN](https://github.com/nematovN)  
+📨 Telegram: [@nematovN](https://t.me/nematovN)  
+✉️ Email: your-email@example.com  
+
+---
+
+## 🏆 Achievements & Certifications
+🏅 Completed Django & REST API Bootcamp  
+📜 Solved 500+ problems on Robocontest  
+🛒 Built a full-fledged e-commerce backend  
+
+![Achievements Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+---
+
+## 🖥️ Tech Stack
+
+🔧 **Backend:** Django, DRF, FastAPI  
+🗄️ **Database:** PostgreSQL, MySQL  
+🐳 **Tools:** Docker, Git, Linux  
+🎨 **Frontend (Basic):** HTML, CSS, JavaScript  
+
+![Tech Stack Animation](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+
+---
+
+## ⚡ Optimizations & Performance
+✅ Implemented database indexing for better query performance  
+✅ Optimized API responses with pagination & caching  
+✅ Used Celery for background task processing  
+
+![Optimization Animation](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+
+---
+
+## 📜 Badges & Licenses
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+---
+
+## 🚀 Live Demos & Projects
+🌐 [E-Commerce Backend](https://github.com/nematovN/ecommerce-backend)  
+⚽ [Sport News Website](https://github.com/nematovN/sport-news)  
+🔊 [TTS Bot (@ttsphere_bot)](https://t.me/ttsphere_bot)  
+
+![Projects Animation](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+
+---
+
+## 🎨 Color Reference
+| Color Name      | Hex Code      |
+|----------------|--------------|
+| Primary Color  | ![#0a192f](https://via.placeholder.com/10/0a192f?text=+) #0a192f |
+| Accent Color   | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
+
+---
+
+## 🤝 Contributing
+Contributions are always welcome! Feel free to fork and submit pull requests. Let's build something great together!
+
+---
+
+## 📜 Appendix
+For more details, check out the documentation in each project repository.
+
+![Footer Animation](https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif)
+
