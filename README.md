@@ -1,6 +1,6 @@
 # Nematov's GitHub Profile
 ![Developer Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
+[![committers.top badge](https://user-badge.committers.top/uzbekistan/USERNAME.svg)](https://user-badge.committers.top/uzbekistan/nematovN)
 
 A passionate backend developer specializing in Django, Python, and REST APIs. I love working on open-source projects and constantly improving my skills.
 
