@@ -63,7 +63,7 @@ I'm a backend developer with experience in building scalable web applications us
 
 ## 📫 How to Reach Me
 📩 GitHub: [@nematovN](https://github.com/nematovN)  
-📨 Telegram: [@nematovN](https://t.me/nematovN)  
+📨 Telegram: [@nematovN](https://t.me/opemsure)  
 ✉️ Email: your-email@example.com  
 
 ---
