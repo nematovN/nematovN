@@ -44,7 +44,8 @@ I'm a backend developer with experience in building scalable web applications us
 ![Learning Animation](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ---
-
+# Hi there! 💛
+---
 ## 👯 Looking to Collaborate On
 - 🤝 Open-source Django projects
 - 🔌 REST API development
