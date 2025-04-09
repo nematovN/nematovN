@@ -1,4 +1,11 @@
 # Nematov's GitHub Profile
+💛💛💛  💛💛  💛💛💛💛  💛💛💛💛  💛    💛  💛💛💛💛  💛💛💛💛💛
+💛  💛  💛💛  💛   💛   💛   💛  💛💛  💛   💛      💛
+💛  💛  💛 💛  💛💛💛💛  💛   💛  💛 💛  💛   💛💛💛💛   💛💛💛
+💛  💛  💛  💛  💛   💛  💛   💛  💛  💛 💛   💛        💛
+💛💛💛  💛   💛  💛💛💛💛  💛   💛  💛   💛💛  💛💛💛💛  💛💛💛💛💛
+
+---
 ![Developer Animation](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 ---
 [![committers.top badge](https://user-badge.committers.top/uzbekistan/USERNAME.svg)](https://user-badge.committers.top/uzbekistan/nematovN)
@@ -21,7 +28,6 @@ I'm a backend developer with experience in building scalable web applications us
 
 ---
 
-# Hi, I'm Nematov! 👋
 
 ![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
